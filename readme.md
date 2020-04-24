@@ -2,7 +2,7 @@
 
 This is a simple code for Arduino.
 
-I did this while studying the components of arduino and how it work. Here you will find the code and the circuit image to build it and make it work
+I did this while studying the components of arduino and how they work. Here you will find the code and the circuit image to build it and make it work
 
 1. Plug all the components like in the image above
     ![Image of the circuit by fritzing](https://github.com/VitorTheGreat/BasicRefrigerationSystem/blob/master/BasicRefrigeratorSystem_bb.png)
@@ -12,7 +12,7 @@ I did this while studying the components of arduino and how it work. Here you wi
 __Be careful when connecting the parts to not harm tyour precious arduino__
 
 
-# Components
+# Components used
 
 1. Arduino Uno
 2. LM25 DZ (temperature)
