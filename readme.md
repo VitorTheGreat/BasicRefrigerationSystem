@@ -10,3 +10,14 @@ I did this while studying the components of arduino and how it work. Here you wi
 3. Upload the code to your arduino and be happy
 
 __Be careful when connecting the parts to not harm tyour precious arduino__
+
+
+# Components
+
+1. Arduino Uno
+2. LM25 DZ (temperature)
+3. Jumpers (MM and FM)
+4. Relay Modulo (AX1RC-5V)
+5. Protoboard
+6 . LCD 16x2 Green
+7. Resistors
